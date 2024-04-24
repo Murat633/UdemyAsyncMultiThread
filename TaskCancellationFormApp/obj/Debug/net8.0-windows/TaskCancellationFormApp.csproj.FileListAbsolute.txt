@@ -1,0 +1,16 @@
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\bin\Debug\net8.0-windows\TaskCancellationFormApp.exe
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\bin\Debug\net8.0-windows\TaskCancellationFormApp.deps.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\bin\Debug\net8.0-windows\TaskCancellationFormApp.runtimeconfig.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\bin\Debug\net8.0-windows\TaskCancellationFormApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\bin\Debug\net8.0-windows\TaskCancellationFormApp.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.Form1.resources
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.csproj.GenerateResource.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.AssemblyInfo.cs
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\refint\TaskCancellationFormApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\TaskCancellationFormApp.genruntimeconfig.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskCancellationFormApp\obj\Debug\net8.0-windows\ref\TaskCancellationFormApp.dll

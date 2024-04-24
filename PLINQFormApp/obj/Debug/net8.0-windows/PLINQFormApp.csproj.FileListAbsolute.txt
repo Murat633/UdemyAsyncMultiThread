@@ -1,0 +1,16 @@
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.Form1.resources
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.csproj.GenerateResource.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.AssemblyInfo.cs
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\bin\Debug\net8.0-windows\PLINQFormApp.exe
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\bin\Debug\net8.0-windows\PLINQFormApp.deps.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\bin\Debug\net8.0-windows\PLINQFormApp.runtimeconfig.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\bin\Debug\net8.0-windows\PLINQFormApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\bin\Debug\net8.0-windows\PLINQFormApp.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\refint\PLINQFormApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\PLINQFormApp.genruntimeconfig.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\PLINQFormApp\obj\Debug\net8.0-windows\ref\PLINQFormApp.dll

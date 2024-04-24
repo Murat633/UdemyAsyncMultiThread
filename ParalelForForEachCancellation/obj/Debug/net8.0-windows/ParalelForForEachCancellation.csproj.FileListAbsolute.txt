@@ -1,0 +1,16 @@
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\bin\Debug\net8.0-windows\ParalelForForEachCancellation.exe
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\bin\Debug\net8.0-windows\ParalelForForEachCancellation.deps.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\bin\Debug\net8.0-windows\ParalelForForEachCancellation.runtimeconfig.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\bin\Debug\net8.0-windows\ParalelForForEachCancellation.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\bin\Debug\net8.0-windows\ParalelForForEachCancellation.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.Form1.resources
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.csproj.GenerateResource.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.AssemblyInfo.cs
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\refint\ParalelForForEachCancellation.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ParalelForForEachCancellation.genruntimeconfig.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\ParalelForForEachCancellation\obj\Debug\net8.0-windows\ref\ParalelForForEachCancellation.dll

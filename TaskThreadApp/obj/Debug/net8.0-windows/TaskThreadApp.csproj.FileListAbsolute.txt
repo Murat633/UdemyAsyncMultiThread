@@ -1,0 +1,16 @@
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\bin\Debug\net8.0-windows\TaskThreadApp.exe
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\bin\Debug\net8.0-windows\TaskThreadApp.deps.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\bin\Debug\net8.0-windows\TaskThreadApp.runtimeconfig.json
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\bin\Debug\net8.0-windows\TaskThreadApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\bin\Debug\net8.0-windows\TaskThreadApp.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.Form1.resources
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.csproj.GenerateResource.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.AssemblyInfo.cs
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\refint\TaskThreadApp.dll
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.pdb
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\TaskThreadApp.genruntimeconfig.cache
+C:\Users\MHD\source\repos\UdemyAsyncMultiThread\TaskThreadApp\obj\Debug\net8.0-windows\ref\TaskThreadApp.dll
